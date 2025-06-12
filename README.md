@@ -2,13 +2,13 @@
 
 ## Privacy Policy for BYOIOT
 
-**Effective Date:** 13 June 2025
+_Last updated: June 13, 2025_
 
-Thank you for using **BYOIOT – Build Your Own IoT**. Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our offline educational mobile app.
+Thank you for using **BYOIOT – Build Your Own IoT**. Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our mobile app.
 
 ### 1. No Personal Data Collected
 
-BYOIOT is designed to function **entirely offline**. We do not collect, store, or transmit any personal information or user data. There are no login requirements, internet-based services, or cloud integrations used in the app.
+BYOIOT is designed to function **offline**. We do not collect, store, or transmit any personal information or user data. There are no login requirements, internet-based services, or cloud integrations used in the app.
 
 ### 2. No Internet Access
 
@@ -41,3 +41,44 @@ If you have any questions about this Privacy Policy or the app, you can contact 
 Email: shyonagi@gmail.com
 
 App: **BYOIOT – Build Your Own IoT**
+
+## Privacy Policy for BitDelivery Express
+
+_Last updated: June 13, 2025_
+
+Thank you for using **BitDelivery Express**. Your privacy is important to us. **BitDelivery Express** does not collect, store, or share any personal data. This Privacy Policy explains how the game uses your device features.
+
+### 1. No Data Collection
+
+We do **not** collect or transmit any of the following:
+- Personal information (e.g. name, email, address)
+- User identifiers or account data
+- Location data
+- Gameplay analytics
+- Advertising or marketing data
+
+### 2. Camera Access
+
+BitDelivery Express uses your device's camera **only** to recognize body movements (e.g. jump or crouch gestures) in real-time for gameplay.  
+- The camera feed **never leaves your device**
+- No photos or videos are recorded or stored
+
+### 3. No Internet or Server Connection
+
+BitDelivery Express is a **fully offline game**:
+- No internet connection is required to play
+- No gameplay or user data is uploaded or synced
+- All interactions remain on your device
+
+### 4. Your Control
+
+You may disable camera access via your device settings, but gesture-based gameplay may not function without it.  
+We do not store any settings or preferences outside your device.
+
+### 5. Contact Us
+
+If you have any questions about this Privacy Policy or the app, you can contact us at:
+ 
+Email: shyonagi@gmail.com
+
+App: **BitDelivery Express**
